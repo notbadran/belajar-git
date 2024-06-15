@@ -1,0 +1,13 @@
+hari ini aku belajar cara menggunakan git bash, serta cara menggunakannya bersamaan dengan project yang kubuat, meskipun hanya dasarnya namun aku mengerti cara menggunakannya
+git add
+git status
+pwd
+ls
+git commit -m
+git commit
+git .
+git log
+git log -7 
+cd 
+
+belajar tahap 1, selesai
