@@ -11,3 +11,21 @@ git log -7
 cd 
 
 belajar tahap 1, selesai
+
+tahap 2
+git commit -a -m "pesan" (-a sama dengan git add)
+git commit -am (versi singkat)
+
+membuat branch:
+git branch (masukan nama)
+git branch tanpa nama: mengecek terdapat branch apa saja dan branch mana yang aktif
+
+git log --all --decorate --oneline --graph 
+(menampilkan log dalam gambaran graph)
+
+membuat alias pada git:
+'alias sama dengan syntaq singkat'
+misal jika ingin membuat git log --all --decorate --oneline --graph 
+aku bisa membuat alias untuk memanggil sintak tersebut, jadi ga perlu tulis panjang lagi
+
+jadi: alias (masukan nama) contoh nama graph="git log --all --decorate --oneline --graph"
