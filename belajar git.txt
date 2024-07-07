@@ -29,3 +29,11 @@ misal jika ingin membuat git log --all --decorate --oneline --graph
 aku bisa membuat alias untuk memanggil sintak tersebut, jadi ga perlu tulis panjang lagi
 
 jadi: alias (masukan nama) contoh nama graph="git log --all --decorate --oneline --graph"
+
+git branch -merged, untuk mengetahui branch mana saja yang sudah dimerged.
+git merge (nama branch yang mau di merge) untuk melakukan merge
+
+
+terdapat dua jenis merge:
+1. fast forward merge
+2. three way merge
